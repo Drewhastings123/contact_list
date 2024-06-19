@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+.contactTable {
+  box-shadow: 5px 10px 10px powderblue; 
+  border-radius: 8px; 
+  padding: 20px;
+  border: 2px solid; 
+}
+.row {
+  background-color: powderblue;
+}
+.row:hover {
+  box-shadow: 5px 5px 5px;
+  transform: scale(1.2, 1.2);
+}
+.user-contact {
+  border: 2px solid;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 5px 10px 10px palevioletred;
+}
